@@ -1,0 +1,2 @@
+Hello, this is input.txt.
+This is some content to read from and copy to output.txt.
