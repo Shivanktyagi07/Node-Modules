@@ -1,4 +1,5 @@
-# Node.js Modules Showcase
+
+# Node.js Modules 
 
 This repository serves as a showcase for different types of modules in Node.js, including core modules, local modules, third-party modules, and ES6 modules. You'll find examples and explanations for each module type.
 
@@ -44,4 +45,33 @@ To get started with the examples in this repository, make sure you have Node.js 
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/node-modules-showcase.git
+   git clone https://github.com/Shivanktyagi07/Node-Modules
+   ```
+
+2. Navigate to the project directory:
+
+   ```bash
+   cd node-modules-showcase
+   ```
+
+3. Explore the various examples in the repository.
+
+## Examples
+
+Each example folder in this repository focuses on a specific type of module (core, local, third-party, ES6), and it includes code and explanations. Browse the folders to learn how to work with different module types.
+
+- [core-modules-example](core-modules-example/): Demonstrates the use of core modules in Node.js.
+- [local-modules-example](local-modules-example/): Shows how to create and use local modules.
+- [third-party-modules-example](third-party-modules-example/): Provides examples of using third-party NPM modules.
+- [es6-modules-example](es6-modules-example/): Demonstrates how to use ES6 modules in Node.js.
+
+## Contributing
+
+If you'd like to contribute to this repository or suggest improvements, feel free to submit a pull request or open an issue. Your contributions are welcome!
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+```
+
+Remember to replace "your-username" with your actual GitHub username and adjust the content as needed to match the specifics of your repository. You can also provide more detailed explanations, additional sections, or other information relevant to your Node.js modules showcase.
