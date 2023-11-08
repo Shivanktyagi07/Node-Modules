@@ -51,7 +51,7 @@ To get started with the examples in this repository, make sure you have Node.js 
 2. Navigate to the project directory:
 
    ```bash
-   cd node-modules-showcase
+   cd node-modules
    ```
 
 3. Explore the various examples in the repository.
@@ -69,9 +69,5 @@ Each example folder in this repository focuses on a specific type of module (cor
 
 If you'd like to contribute to this repository or suggest improvements, feel free to submit a pull request or open an issue. Your contributions are welcome!
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
 
-Remember to replace "your-username" with your actual GitHub username and adjust the content as needed to match the specifics of your repository. You can also provide more detailed explanations, additional sections, or other information relevant to your Node.js modules showcase.
